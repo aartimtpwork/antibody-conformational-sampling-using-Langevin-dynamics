@@ -5,7 +5,8 @@ This is the home of the documentation for Antibody conformational sampling using
 ### Installation
 ---
 MD analysis
-
+> ``conda install mdanalysis``
+> ``pip install mdanalysis``
 Prody
 
 Scipy
