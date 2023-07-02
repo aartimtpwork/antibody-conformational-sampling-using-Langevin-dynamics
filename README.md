@@ -13,13 +13,20 @@ Prody
 > ``pip install -U ProDy``
 
 Scipy
+> ``conda install scipy``
+> ``pip install scipy``
 
 Matplotlib
+> ``conda install -c conda-forge matplotlib``
+> ``pip install matplotlib``
 
 Numpy
+> ``conda install numpy``
+> ``pip install numpy``
 
 Pandas
-
+> ``conda install pandas``
+> ``pip install pandas``
 
 ### Documentation
 ---
